@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&family=Work+Sans:wght@800&display=swap');
+
 body{
-    background-color: rgb(55,48, 48);
+    background-color: rgb(55, 48, 48);
 }
 p{
     font-family: 'Sono', sans-serif;
